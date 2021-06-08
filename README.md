@@ -1,1 +1,1 @@
-# Button-Ripple-Effecr
+# Button-Ripple-Effect
